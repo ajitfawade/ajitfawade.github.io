@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
+  weight: 4
 
 - name: Bash
   weight: 3
@@ -14,20 +14,32 @@
 - name: Scrum
   weight: 3
 
-- name: Travis CI
+- name: Kafka
+  weight: 1
+
+- name: Elastic Search
   weight: 1
 
 - name: Jenkins
   weight: 1
 
 - name: Chrome DevTools
-  weight: 2
+  weight: 3
+
+- name: Sequelize
+  weight: 3
+
+- name: Chrome DevTools
+  weight: 3
 
 - name: npm
-  weight: 2
+  weight: 3
 
 - name: gulp
-  weight: 4
+  weight: 1
+
+- name: webpack
+  weight: 3
 
 - name: VS Code
   weight: 3

@@ -1,7 +1,7 @@
 {
-  "name": "Neumorphism",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Portfolio",
   "scripts": {
     "dev": "gulp",
     "prod": "gulp build"
