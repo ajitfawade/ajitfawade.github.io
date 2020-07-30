@@ -8,10 +8,10 @@
       }
     },
     "color": {
-      "value": ["#dc052d"]
+      "value": ["#dc3545", "#b61924"]
     },
     "shape": {
-      "type": "polygon",
+      "type": ["circle", "edge", "star", "polygon", "triangle"],
       "stroke": {
         "width": 0,
         "color": "#000000"
@@ -25,7 +25,7 @@
       "random": true,
       "anim": {
         "enable": false,
-        "speed": 1,
+        "speed": 2,
         "opacity_min": 0.4,
         "sync": false
       }
@@ -45,12 +45,12 @@
     },
     "move": {
       "enable": true,
-      "speed": 1,
-      "direction": "bottom",
+      "speed": 4,
+      "direction": "top-right",
       "random": true,
       "straight": false,
       "out_mode": "out",
-      "bounce": false,
+      "bounce": true,
       "attract": {
         "enable": false,
         "rotateX": 1200,
@@ -66,7 +66,7 @@
       },
       "onclick": {
         "enable": true,
-        "mode": "repulse"
+        "mode": ["repulse", "push"]
       },
       "resize": true
     },
