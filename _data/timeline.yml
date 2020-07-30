@@ -17,15 +17,15 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: 0.5Bn Finhealth Private Limited
-  title-url: https://example.com/
+- title: 0.5Bn Finhealth Pvt Ltd
+  title-url: https://www.yelobank.in/
   date: May 2020 - Present
   subtitle: Software Development Engineer - II
   tags:
     - tag: Node
     - tag: Express
     - tag: Microservices
-    - tag: PostGreSQL
+    - tag: PostgreSQL
     - tag: Sequelize
     - tag: AWS EC2
     - tag: AWS S3
@@ -34,23 +34,22 @@
     - tag: React-Hooks
   timeline-side: left
 
-- title: Josh Software Private Limited
-  title-url: https://example.com/
+- title: Josh Software
+  title-url: https://joshsoftware.com/
   date: Feb 2019 - April 2020
   subtitle: Fullstack Developer
   tags:
     - tag: React
     - tag: Redux
     - tag: Node
-    - tag: SQL
     - tag: PostGreSQL
     - tag: Sequelize
     - tag: AWS EC2
     - tag: AWS S3
   timeline-side: right
 
-- title: Coditas Technologies Private Limited
-  title-url: https://example.com/
+- title: Coditas Technologies
+  title-url: https://coditas.com/
   date: Jan 2017 - Feb 2019
   subtitle: Fullstack Developer
   tags:
@@ -61,7 +60,7 @@
   timeline-side: left
 
 - title: Kanaka Software
-  title-url: https://example.com/
+  title-url: http://www.kanakasoftware.com/
   date: Dec 2015 - June 2016
   subtitle: Intern
   tags:
@@ -73,7 +72,7 @@
   timeline-side: right
 
 - title: Pune University
-  title-url: https://example.com/
+  title-url: http://www.unipune.ac.in/
   date: 2013 - 2016
   subtitle: Master of Computer Application
   timeline-side: left

@@ -46,3 +46,6 @@
 
 - name: Postman
   weight: 4
+
+- name: Postgres
+  weight: 3
