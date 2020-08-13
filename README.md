@@ -22,7 +22,5 @@ This is a personal website built with `Jekyll` and hosted on `Github Pages`, whi
 * [Github's API](https://developer.github.com/v3/) automatically populating the *Open Source Projects* section
 * Gulp dev workflow with [BrowserSync](https://browsersync.io/), [Autoprefixer](https://autoprefixer.github.io/) and `JS` & `SCSS` minifying.
 * [Google Analytics](https://analytics.google.com/)\
-
-
-![Hits](https://hits.seeyoufarm.com/api/count/keep/badge.svg?url={https://github.com/ajitfawade/ajitfawade.github.io})]
+[![HitCount](http://hits.dwyl.io/ajitfawade/ajitfawade.github.io.svg)](http://hits.dwyl.io/ajitfawade/ajitfawade.github.io)
 
