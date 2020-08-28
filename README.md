@@ -21,5 +21,7 @@ This is a personal website built with `Jekyll` and hosted on `Github Pages`, whi
 * Filterable *Skills* word cloud
 * [Github's API](https://developer.github.com/v3/) automatically populating the *Open Source Projects* section
 * Gulp dev workflow with [BrowserSync](https://browsersync.io/), [Autoprefixer](https://autoprefixer.github.io/) and `JS` & `SCSS` minifying.
-* [Google Analytics](https://analytics.google.com/)
+* [Google Analytics](https://analytics.google.com/)\
+[![HitCount](http://hits.dwyl.com/ajitfawade/ajitfawadegithubio.svg)](http://hits.dwyl.com/ajitfawade/ajitfawadegithubio)
+
 
