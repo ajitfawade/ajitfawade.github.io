@@ -19,39 +19,39 @@
 
 - title: येLo(0.5Bn Finhealth Private Limited)
   title-url: https://www.yelobank.in/
-  date: May 2020 - Present
+  date: May 2020 - May 2021
   subtitle: Software Development Engineer - II
   tags:
     - tag: Node
     - tag: Express
     - tag: Microservices
     - tag: PostgreSQL
+    - tag: MongoDB
     - tag: Sequelize
+    - tag: Kafka
     - tag: AWS EC2
     - tag: AWS S3
+    - tag: AWS API Gateway
     - tag: React
-    - tag: Redux
     - tag: React-Hooks
+    - tag: GraphQL
   timeline-side: left
 
 - title: Josh Software
   title-url: https://joshsoftware.com/
   date: Feb 2019 - April 2020
-  subtitle: Fullstack Developer
+  subtitle: Software Engineer
   tags:
     - tag: React
     - tag: Redux
     - tag: Node
-    - tag: PostGreSQL
-    - tag: Sequelize
-    - tag: AWS EC2
     - tag: AWS S3
   timeline-side: right
 
 - title: Coditas Technologies
   title-url: https://coditas.com/
   date: Jan 2017 - Feb 2019
-  subtitle: Fullstack Developer
+  subtitle: Software Developer
   tags:
     - tag: React
     - tag: Node
