@@ -23,6 +23,9 @@
 - name: SASS
   weight: 1
 
+- name: TypeScript
+  weight: 2
+
 # - name: Java
 #   weight: 1
 

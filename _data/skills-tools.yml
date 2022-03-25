@@ -49,3 +49,9 @@
 
 - name: Postgres
   weight: 3
+
+- name: Azure DevOps
+  weight: 2
+
+- name: GraphQL
+  weight: 2

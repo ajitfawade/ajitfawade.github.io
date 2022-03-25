@@ -25,6 +25,9 @@
 
 - name: Express
   weight: 3
+
+- name: Hapi
+  weight: 2
 # - name: Django
 #   weight: 1
 
