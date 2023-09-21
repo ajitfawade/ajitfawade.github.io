@@ -1,7 +1,8 @@
 # Portfolio <!-- omit in toc -->
 
-[ajitfawade.in](https://ajitfawade.in/)
+[ajitfawade.com](https://ajitfawade.in/)
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fajitfawade%2Fajitfawade.github.io&countColor=%232ccce4&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fajitfawade%2Fajitfawade.github.io)
 
 ## About The Project
 
