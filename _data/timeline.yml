@@ -5,9 +5,24 @@
 # > tags: List of tags you want to associate with the entry
 # > timeline-side: The side on which you want to display the entry: left or right
 
+- title: Kaiser Permanente
+  title-url: https://kaiserpermanente.org/
+  date: January 2026 - Till date
+  subtitle: IT Engineer - V
+  tags:
+    - tag: Node
+    - tag: Nest.js
+    - tag: TypeScript
+    - tag: PostgreSQL
+    - tag: Azure
+    - tag: React
+    - tag: React-Hooks
+    - tag: GraphQL
+  timeline-side: right
+
 - title: Globant
   title-url: https://www.globant.com/
-  date: September 2021 - Till date
+  date: September 2021 - December 2025
   subtitle: Senior Software Engineer
   tags:
     - tag: Node
