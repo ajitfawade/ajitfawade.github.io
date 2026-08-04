@@ -5,14 +5,14 @@
 # - name: Language
 #   weight: 5
 
-# - name: TypeScript
-#   weight: 5
+- name: TypeScript
+  weight: 3
 
 - name: JavaScript
   weight: 4
 
-# - name: Python
-#   weight: 2
+- name: Python
+  weight: 2
 
 - name: HTML5
   weight: 4
