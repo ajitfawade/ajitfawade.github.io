@@ -28,6 +28,9 @@
 
 - name: Hapi
   weight: 2
+
+- name: Nest.js
+  weight: 2
 # - name: Django
 #   weight: 1
 
